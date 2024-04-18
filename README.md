@@ -2,7 +2,7 @@
 
 # Tiban
 
-![Tiban Logo](https://drive.google.com/file/d/1PFj2OBMidTTO11Vi99axZCVSgYaiXo5F/view?usp=sharing)
+![Tiban Logo](https://media.licdn.com/dms/image/D4D0BAQH-DCajSrTjUw/company-logo_200_200/0/1704222652778?e=1721260800&v=beta&t=FRN68HiJfGiXrKwDZ-GVoQA_UgYF9C9wIX4rm4vR4Lo)
 
 Bem-vindo ao perfil da Tiban! Somos uma empresa líder em soluções de tecnologia dedicada a potencializar o sucesso das empresas. Especializados em sistemas integrados e consultoria estratégica, focamos na otimização operacional e no crescimento sustentável dos negócios.
 
